@@ -23,7 +23,7 @@
     </a>
     <a href="https://github.com/Amir-hz0">
         <img alt="github"
-            src="https://img.shields.io/github/stars/Amir-hz0/Blog-BackEnd" />
+            src="https://img.shields.io/github/stars/Amir-hz0/Amir-hz0" />
     </a>
     <!--<a href="https://www.zhihu.com/people/mkosto">
         <img
@@ -93,7 +93,7 @@
 ```text
 Python     30 mins         ██████████████████████▓░░   90.41 %
 Terminal   50 mins         ████████████░░░░░░░░░░░░░   49.59 %
-Javascript 50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Javascript 50 mins         ████░░░░░░░░░░░░░░░░░░░░░   10.59 %
 ```
 
 <!--END_SECTION:waka-->
@@ -110,5 +110,4 @@ Code Editor：v2code
     - :octocat: [Github@Amir-hz0](https://github.com/Amir-hz0)
     - :email: [Amir-hz0@gmail.com](mailto:Hosseinzade_Amirhossein1400@gmail.com)
     <!--- :tv: [Youtube@itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ?view_as=subscriber)-->   
-    - :camera:[Instagram@Amirhossein_hz0](https://www.instagram.com/Amirhossein_hz0/)
     - :phone:[telegram@Hosseinzade_Amirhossein](https://t.me/Hosseinzade_Amirhossein)
