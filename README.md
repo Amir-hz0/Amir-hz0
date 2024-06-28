@@ -1,18 +1,21 @@
 ## Hi there 👋
 
-
-**Amir-hz0/Amir-hz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on some projects
+- 🌱 I’m currently learning django
+- 🤔 I’m looking for help with solving people problem's and debug for them
+- 💬 Ask me about python,wordpress,telegram bots
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+ &nbsp;**Connect with me**
+<p align="left">
+<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 <p align="center">
   Visitor count<br>
@@ -20,13 +23,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://Github.com/Amirjr99">
+  <a href="https://Github.com/Amir-hz0">
         <img alt="Github"
-            src="https://img.shields.io/github/followers/Amirjr99?style=social" />
+            src="https://img.shields.io/github/followers/Amir-hz0?style=social" />
     </a>
-    <a href="https://github.com/Amirjr99">
+    <a href="https://github.com/Amir-hz0">
         <img alt="github"
-            src="https://img.shields.io/github/stars/Amirjr99/Blog-BackEnd" />
+            src="https://img.shields.io/github/stars/Amir-hz0/Blog-BackEnd" />
     </a>
     <!--<a href="https://www.zhihu.com/people/mkosto">
         <img
@@ -42,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Amirjr99"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Amir-hz0"></a>
   <img src="https://weather-icon.journeyad.repl.co/@Tehran?v=1" align="right">
 </p>
 
@@ -54,14 +57,11 @@ Here are some ideas to get you started:
 </p>
 
 
-
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Amirjr99&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Amir-hz0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![roadmap.sh](https://roadmap.sh/card/wide/667ee1b3fd607366927559fe?variant=dark&roadmaps=ai-data-scientist%2Cgolang%2Cbackend%2Cmlops)](https://roadmap.sh)
 
-![](https://raw.githubusercontent.com/Amirjr99/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Amirjr99/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/Amir-hz0/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Amir-hz0/github-stats-transparent/output/generated/languages.svg)
 
 <!--
 <details open>
@@ -111,8 +111,8 @@ Don't think you are programmer, Be a problem solver.
 Code Editor：v2code
 
 - 📫 How to reach me:
-    - :octocat: [Github@Amirjr99](https://github.com/Amirjr99)
-    - :email: [Amirjr99@gmail.com](mailto:Hosseinzade_Amirhossein1400@gmail.com)
+    - :octocat: [Github@Amir-hz0](https://github.com/Amir-hz0)
+    - :email: [Amir-hz0@gmail.com](mailto:Hosseinzade_Amirhossein1400@gmail.com)
     <!--- :tv: [Youtube@itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ?view_as=subscriber)-->   
     - :camera:[Instagram@Amirhossein_hz0](https://www.instagram.com/Amirhossein_hz0/)
     - :phone:[telegram@Hosseinzade_Amirhossein](https://t.me/Hosseinzade_Amirhossein)
