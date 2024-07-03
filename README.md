@@ -44,7 +44,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Amirhossein Hosseinzade</h1>
-<h3 align="center">A Python Developer and Computer Engineering Student from Iran,Tehran ...</h3>
+<h3 align="center">A Python Backend Developer from Iran,Tehran ...</h3>
+<h4 align="center">"🎓 Bachelor in Computer Engineering from Tabriz University"</h4>
 
 
 <h3 align="left">Languages and Tools:</h3>
