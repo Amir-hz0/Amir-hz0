@@ -12,11 +12,6 @@
 <a href="https://instagram.com/Amirhossein_hz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Amirhossein Hosseinzade" height="30" width="40" /></a>
 
 <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
-</p>
-
-<p align="center">
   <a href="https://Github.com/Amir-hz0">
         <img alt="Github"
             src="https://img.shields.io/github/followers/Amir-hz0?style=social" />
