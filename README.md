@@ -55,8 +55,6 @@
 ![](https://raw.githubusercontent.com/Amir-hz0/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Amir-hz0/github-stats-transparent/output/generated/languages.svg)
 
-<a href=#><img src="contributions.svg"></a>
-
 <!--
 <details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
